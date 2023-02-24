@@ -1,0 +1,9 @@
+num1=10
+num2=5
+print(num1+num2)
+f_name='kalu'
+l_name='malu'
+print(f_name+l_name)
+nums1=[1,2,3,4]
+nums2=[5,6,7,8]
+print(nums1+nums2)
